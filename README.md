@@ -4,6 +4,10 @@
 
 Exploratory data analysis from Spotify's data export tool
 
+## Status
+
+Not actively working until I figure out how to map URIs back to useful data
+
 ## Data source
 
 1. Button in web ui
