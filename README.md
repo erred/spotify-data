@@ -24,7 +24,9 @@ Not actively working until I figure out how to map URIs back to useful data
 - 32 char track IDs dont match with 22 char IDs from web API
   - Example: idontwannabeyouanymore by Billie Eilish
     - 8443c4a5eb3b467bbb972ece90d86f8f
+      - 295649701892409855542779158376296246585691484081003893099
     - 41zXlQxzTi6cGAjpOXyLYH
+      - 175809967830860496034926872291442192271
 
 ## In this repo
 
